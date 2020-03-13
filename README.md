@@ -2,7 +2,8 @@
 
 to run project in laravel
 
-# php artisan serve
+# all_gui.py
 
-to run project in angular
+to run python
+
 # npm start 
