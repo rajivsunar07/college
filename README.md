@@ -1,1 +1,3 @@
 # college
+
+# php artisan serve
