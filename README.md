@@ -4,6 +4,6 @@ to run project in laravel
 
 # all_gui.py
 
-to run python
+to run java
 
 # npm start 
